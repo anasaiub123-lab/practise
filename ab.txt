@@ -1,2 +1,9 @@
 my name is anas
 id 23535013
+
+git init 
+git branch -m main
+git remote add origin 
+git add .
+git commit -m "...."
+git push -u origin main
